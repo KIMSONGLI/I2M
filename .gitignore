@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# ignore imgs
+*.bmp
+
+#ignore vs config
+*.pyproj
+
+# ML models
+*.h5
+
+# checkpoints
+checkpoints/
